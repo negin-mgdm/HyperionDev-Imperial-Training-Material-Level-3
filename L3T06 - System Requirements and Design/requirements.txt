@@ -1,0 +1,73 @@
+Answer the following questions:
+● In a document titled requirements.txt, consider the following statement
+of requirements for part of a ticket-issuing system:
+An automated ticket-issuing system sells rail tickets. Users select their
+destination and input a credit card and a personal identification number.
+The rail ticket is issued and their credit card account is charged. When the
+user presses the start button, a menu display of potential destinations is
+activated, along with a message to the user to select a destination. Once a
+destination has been selected, users are requested to input their credit
+card. Its validity is checked and the user is requested to input a personal
+identifier. When the credit transaction has been validated, the ticket is
+issued.
+Based on this:
+
+● Discuss any ambiguities or omissions in the statement of
+requirements for this part of a ticket-issuing system.
+
+The statement lacks clarity on how users input their credit card information 
+(Is it through a physical card swipe, contactless method or some other method?), 
+how the credit transaction is validated (What checks are performed to validate 
+the credit card transaction, and what happens if the validation fails?), 
+and the process for charging the credit card (How  the payment is processed and 
+confirmed, what happens if the process failed?). Information about how users input 
+their credit card, how transactions are checked, and how payments are processed 
+and handled in case of errors is needed.
+The statement mentions the requirement for a personal identification number (PIN), 
+but it doesn't explain its purpose or how it's used. Is the PIN meant for extra security 
+or authentication? We need more details to understand the role and importance of the PIN.
+The statement also says that tickets are issued, but it doesn't mention whether they are 
+physical or electronic. It also doesn't explain how the ticket issuance process works or 
+what happens in case of errors. We need to know the format of the tickets and understand 
+the steps involved in ticket issuance, including how errors are handled.
+
+                              *****************************  
+
+● Write a set of non-functional requirements for the ticket-issuing
+system above. You are free to make assumptions regarding the
+system based on ambiguities or omissions you identified previously.
+
+Usability:
+The system should be designed to be user-friendly, ensuring that individuals with different 
+technical skills can easily navigate it. It should provide clear, simple instructions, 
+and the interface should be intuitive. We want all users, regardless of their tech skills, 
+to feel comfortable while interacting with the system.
+Performance:
+The system's performance is a critical aspect of providing users with a seamless experience 
+without delay. It should respond quickly when users select their options, input their 
+credit card information, and validate their transactions. Additionally, it should efficiently 
+handle multiple transactions happening at the same time, making sure that users experience 
+minimal waiting times, even during peak usage periods.
+Reliability:
+Users should be able to rely on the system for smooth and uninterrupted service. 
+The system should operate without unexpected interruptions or errors. 
+In an event that errors do occur, the system should handle them and communicate clearly with 
+users through appropriate error messages. This ensures that users are kept informed, 
+especially in situations like credit card validation issues.
+Security:
+Safeguarding user data, particularly sensitive information like credit card details and 
+personal identifiers, is crucial. The system should adhere to established industry standards 
+for data encryption and protection. Regular security assessments should be carried out to 
+identify and address any vulnerabilities. This proactive security approach is important to 
+maintaining user trust and protecting their information.
+
+
+
+
+
+
+
+
+
+
+

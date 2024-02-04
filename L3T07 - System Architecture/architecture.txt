@@ -1,0 +1,49 @@
+● Do some research to find real-world examples of when each architecture
+pattern would be most appropriate to use. Write down your examples, and
+state your reasons why each pattern would be most appropriate for each
+of the examples you found.
+
+client-server architecture:
+Client-server architecture is used in online games like League of Legends (LoL), Wild Rift, 
+and web services such as Web of Science, Science Direct, and YouTube because it efficiently 
+manages interactions, content distribution, and user data for a large user base.
+
+layered architecture:
+Layered architecture is suitable for cloud storage services such as OneDrive and Google Drive 
+because it allows for a structured and organised approach to data storage and retrieval. 
+Layered architecture is used to separate components, such as the user interface, business logic, 
+and data storage. This separation allows for easier maintenance, scalability, and flexibility 
+in handling large volumes of user data and interactions.
+
+Repository architecture:
+Repository architecture is well-suited for systems like MySQL, Oracle Database, and GitHub 
+because it provides a structured approach for organising and managing data and resources. 
+In the case of databases like MySQL and Oracle, it's essential to have a systematic way to 
+store and retrieve data, and repository architecture serves this purpose effectively. 
+GitHub, as a version control system, relies on repository architecture to keep code and 
+collaboration well-organised, ensuring data integrity and accessibility.
+
+Pipe and filter architecture:
+Applications like Adobe Photoshop or GIMP use Pipe and Filter Architecture for image editing. 
+Pipe and Filter Architecture enables a step-by-step, flexible approach to applying various filters 
+and transformations to images. This modular setup simplifies the software's development and provides 
+users with a versatile way to enhance and edit images.
+
+                    ********************************************
+
+● Give two examples of systems combining two or more patterns, and explain how these patterns 
+complement each other.
+
+1. TV: The system architecture of television and broadcast typically follows a combination of architectural 
+patterns, including Layered Architecture, Client-Server Architecture and Pipe and Filter Architecture. 
+Television and broadcast systems use layered architecture to organize components. 
+They rely on client-server architecture to deliver content to viewers. 
+Data processing involves a pipe and filter architecture. Repository architecture plays a smaller role 
+as these systems focus on real-time content delivery.
+
+2. Moodle: 
+Moodle primarily follows a Layered Architecture, which is a characteristic feature of most 
+Learning Management Systems (LMS). It separates functions into layers, including presentation, 
+application, and data. Moodle also incorporates elements of repository architecture for 
+content storage, follows a client-server model, and may involve data processing.  However, 
+it doesn't rely on pipe and filter architecture for its core design pattern.

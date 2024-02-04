@@ -1,0 +1,62 @@
+● How does the waterfall methodology differ from agile?
+
+Waterfall is typically used for projects with well-defined and stable requirements. 
+Waterfall follows a sequential and linear approach and its projects tend to take longer to deliver a final product.
+Additionally, in terms of customer feedback and involvement, it has a Minimal Customer Involvement 
+which is typically occur only at the beginning and end of the project.
+Agile is suited for projects where requirements may evolve and customer collaboration is essential. 
+Agile follows an iterative and incremental approach and gets things done faster. 
+Agile delivers small, useful parts quickly so you can see results sooner. 
+Moreover, Agile encourages regular customer collaboration and feedback throughout the project.
+As a result, the Waterfall methodology is a more strict, and plan-driven approach and is used when 
+requirements are well-defined and stable, whereas Agile is a flexible, customer-centric, and adaptive approach 
+and is used for projects with evolving requirements, focusing on flexibility, customer collaboration, 
+and quicker delivery.
+
+                            ***************************************************************
+
+● Reread “Agile Manifesto”. Can you think of a situation in which one or
+more of the four “values” could get a software team into trouble?
+
+Value: "Individuals and interactions over processes and tools":
+When a team relies on the skills of individual team members and doesn't use proper tools, 
+it can lead to problems in large software projects. These issues include inconsistent work 
+and difficulties when trying to make the project bigger. It's like building a complex structure 
+with only hand tools – it might work for a small project, but for a large one it doesn’t work. 
+
+Value: "Customer collaboration over contract negotiation":
+In projects where specific details such as what needs to be done, when it should be done, 
+and how much it will cost are essential, excessive customer involvement without clear agreements 
+can create problems. This can result in unexpected changes and additional work that wasn't 
+originally planned, making the project larger, causing delays, and increasing the overall cost. 
+
+                            ***************************************************************
+
+● Describe the agile method in your own words.
+
+Agile is a software development approach that focuses on flexibility, collaboration, and 
+delivering value quickly. Instead of planning everything at the start, Agile breaks the work into 
+small steps. In each step, a little part of the software is made, and users give feedback. 
+This allows for constant adjustments and improvements based on real user needs. Agile promotes teamwork and 
+customer involvement which making it well-suited for projects where requirements are expected to change or evolve.
+
+                            ***************************************************************
+
+● Why do you think requirements change so much?
+
+Requirements often change in software development because the world around the project is always changing. 
+Businesses grow and adapt, customers provide feedback, and new technologies come up. 
+Laws and competition can also impact requirements. Sometimes, mistakes or issues are found, 
+or new people get involved and have different ideas. All of these things can lead to changes in what 
+the software needs to do. 
+
+                            ***************************************************************
+
+● Explain why first testing project features helps the programmer to develop
+a better understanding of the system requirements.
+
+Testing project features early in development helps programmers understand system requirements 
+better because it provides a real-world perspective. It clarifies what the software should do, 
+validates assumptions, and gathers feedback. Early testing also identifies missing requirements, 
+improves quality, and reduces confusion in requirements. It's like road-testing a car to ensure 
+it meets your expectations and makes any necessary adjustments for a smoother ride.

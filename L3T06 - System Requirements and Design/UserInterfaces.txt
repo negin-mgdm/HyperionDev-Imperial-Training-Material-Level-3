@@ -1,0 +1,57 @@
+● Go to this website. Do you think the website has a good UI? Refer to the
+information provided in the task and discuss both good and bad elements
+in the website’s UI.
+
+Good elements:
+From my perspective, the website's fast loading is its only good aspect. 
+This refers to the site's ability to quickly display content without significant delays.
+
+Bad elements:
+Use of Colours, Textures, and Typography Without Purpose:
+Colours, textures, and typography are used without a clear purpose which can result in a chaotic 
+and confusing visual experience. 
+
+Inconsistency:
+Inconsistency in design, layout, and typography creates a disorienting user experience and 
+confusion while using the website. 
+
+Poor Readability:
+Poor readability is a significant issue in the UI design of this website, due to small and unclear 
+fonts and extreme colour contrast. This can frustrate users, as it makes it challenging to 
+consume content or navigate the website. 
+
+Outdated Design:
+An outdated design of the website indicates that the website's appearance and functionality are not 
+in line with current design trends. This can give the first impression that the site is not well-maintained 
+or up-to-date, potentially destroying the user's trust in website's content.
+
+Overall, this website's UI is not good and should be improved.
+
+                        **************************************************
+
+● Now go to this website. Do you think the website has a good UI? Discuss
+both the good and bad elements in the website’s UI.
+
+Good elements:
+Purposeful Use of Colours, Textures, and Typography:
+When colors, textures, and typography are thoughtfully chosen, they enhance the visual appeal 
+and user experience, resulting in a harmonious and visually pleasing design.
+
+Consistency:
+Maintaining consistency in design, layout, and typography throughout the interface promotes 
+a professional appearance, making it easier for users to understand and navigate the website.
+
+Effective Navigational Components:
+Well-designed navigational components, including ribbon, buttons, and links, 
+simplify user movement within the website, improving overall navigation.
+
+Informative Informational Components:
+Informational components that provide clear and meaningful output from the system contribute to 
+user understanding and informed decision-making, enhancing the overall user experience.
+
+Modern Design:
+Staying up-to-date with current design trends ensures that the interface remains visually appealing, 
+aligning with user expectations and providing a fresh look.
+
+Overall, this website's UI is good and well-designed.
+

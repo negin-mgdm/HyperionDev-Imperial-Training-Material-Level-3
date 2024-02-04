@@ -1,0 +1,54 @@
+● Suggest which generic software model will be most appropriate for the
+development of the following systems. Give reasons for your answer.
+
+○ A system to control anti-lock braking in a car
+ Reuse-Oriented Software Engineering Model: 
+For safety-critical systems like anti-lock braking in a car,
+it's crucial to use software that's already been tried and tested. 
+The reuse-oriented approach lets us use software components that we know are dependable, 
+ensuring the brakes work safely and reliably.
+
+○ A virtual reality system to support software maintenance
+ Incremental Development Model:
+Software maintenance often involves evolving requirements and continuous improvements. 
+An incremental development model, allows us to keep changing and improving the system 
+to meet our changing needs. 
+
+○ A university accounting system that replaces an existing system
+ Waterfall Model:
+Replacing an existing accounting system in a university typically involves well-defined requirements 
+such as documentation and a structured approach. 
+The Waterfall Model is a good fit because it works well for projects with stable and known requirements.
+
+○ An interactive travel planning system that helps users plan trips
+with the lowest environmental impact
+ Incremental Development Model:
+A travel planning system that focuses on environmental impact means it needs to be kept up to date with
+frequent updates related to environmental data and what users want. 
+An incremental model allows for changes and improvements over time based on evolving environmental factors.
+
+                                       **************************************************         
+
+● Why do you think incremental development is the most effective approach for developing business software systems?
+
+Incremental development is effective for business software because it breaks the work into small, manageable steps.
+Additionally, it adapts to changing needs easily and allows for quick adjustments,   
+and reduces project risks by identifying and addressing issues early. It also maintains high software quality 
+through regular testing by catching and fixing problems before they lead to a breakdown.
+
+                                       **************************************************         
+
+● Look at the diagram showing the reuse-oriented software engineering process above. 
+Why do you think it is necessary to have two separate requirements engineering steps in this process?
+
+The first step (Requirements Specification) records what the system initially needs,
+we need to define what the system should do and capture its basic requirements.
+The second step (Requirements Modification) tweaks those requirements to fit the reusable components properly. 
+This separation ensures that the reused parts work well in the system, and we make any necessary changes 
+for successful reuse.
+
+These two distinct steps recognise that software reuse involves a balancing act between the existing system's requirements 
+and the characteristics of reusable components. By breaking the process into two steps, it allows for clarity in distinguishing 
+between the original system's needs and the necessary adjustments for effective reuse.
+The two separate requirements engineering steps help ensure that the software system can successfully integrate 
+and reuse existing components, making the process more effective.

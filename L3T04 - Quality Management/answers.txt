@@ -1,0 +1,55 @@
+Answer the following:
+
+● Briefly describe possible quality standards that might be used for these real-world products:
+
+○ Mobile game app
+For a mobile game app, it's crucial to ensure both compatibility, making the app work effortlessly on 
+different mobile devices and operating systems, and performance, ensuring the game runs smoothly without 
+interruptions, lags and crashes.
+
+○ Banking application
+For a banking application, it's crucial to prioritise both safety and security by implementing strong measures 
+to safeguard sensitive financial and personal data. Additionally, ensuring accessibility for a wide range of users, 
+including those with disabilities.
+
+○ Database for a medical organisation
+In context of a database for a medical organisation, focusing on data security and privacy is paramount,
+with robust measures to protect patient data. Additionally, planning for scalability is essential, 
+ensuring the database can handle growing data volumes and increasing user loads as the organisation expands.
+
+                        *****************************************************
+
+● Explain why a high-quality software process should lead to high-quality software products. 
+Discuss possible problems with this system of quality management.
+
+A high-quality software development process should lead to high-quality software products because it ensures 
+things are done in a consistent way, problems are found early, resources are used well, and everyone follows the quality rules.
+
+But there can be issues with this approach. Sometimes, people focus too much on following the rules and 
+don't think creatively. They can become too inflexible and resist changes that could be helpful. 
+Also, they might collect so much data that it becomes confusing. So, finding the right balance between 
+process and creativity is really important.
+
+                        *****************************************************
+
+● Explain why program inspections are an effective technique for discovering errors in a program. 
+What types of errors are unlikely to be discovered through inspections?
+Program inspections, where team members review code together, are effective for finding errors in a program. 
+They work because different people bring different perspectives and experiences, 
+and a structured process helps them examine the code thoroughly. 
+Plus, inspections happen early, catching errors before they spread and become costly.
+
+But they're not great at finding complex logical errors, performance problems, 
+integration issues between code parts, or user interface problems. 
+These may need other testing methods, like dynamic testing, real-world testing, and user feedback.
+
+                        *****************************************************
+
+● Why is it difficult to validate the relationships between internal product attributes and external attributes?
+Validating the relationships between internal product attributes (how the software is built) and 
+external attributes (how it interacts with users and the environment) is challenging because software is complex, 
+the real-world context is dynamic and variable, users have diverse behaviours, testing has limitations, 
+and the interactions are often indirect and can lead to unexpected outcomes. 
+Additionally, incomplete information and feedback loops further complicate the validation process. 
+All these factors make it hard to fully understand and validate the connections between 
+the inner workings of the software and its behaviour in the real world.
